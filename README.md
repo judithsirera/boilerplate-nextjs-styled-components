@@ -2,8 +2,6 @@
 
 Boilerplate for a NextJS App built using Typescript and Styled Components
 
-&nbsp;
-
 ## Tech stack
 
 - [Nextjs](https://nextjs.org/)
@@ -11,8 +9,6 @@ Boilerplate for a NextJS App built using Typescript and Styled Components
 - Typescript
 
 ---
-
-&nbsp;
 
 ## Run server
 
@@ -32,8 +28,6 @@ You can access your server at http://localhost:3000/
 
 ---
 
-&nbsp;
-
 ## Theme
 
 This boilerplate comes with a Default Theme already defined. To update your theme, declare your theme type in [/styles/theme/styled.d.ts](/styles/theme/styled.d.ts).
@@ -41,8 +35,6 @@ This boilerplate comes with a Default Theme already defined. To update your them
 If you want to add more themes, define them inside [`lib`](/styles/theme/lib/) folder and add them to the `Themes` object in [/styles/theme/lib/index.ts](/styles/theme/lib/index.ts)
 
 ---
-
-&nbsp;
 
 ## Layout
 
