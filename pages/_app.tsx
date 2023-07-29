@@ -8,8 +8,12 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Alltrana</title>
-        <meta name="description" content="Training together" />
+        <title>Boilerplate Nextjs Styled Components</title>
+        <meta
+          name="description"
+          content="This is a boilerplate for you to start building your app"
+        />
+        <meta name="author" content="Judith Sirera" />
       </Head>
       <ThemeProvider theme={Themes.light}>
         <GlobalStyle />

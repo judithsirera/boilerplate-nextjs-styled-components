@@ -7,13 +7,7 @@ const nextConfig = {
   },
   assetPrefix: './',
   async redirects() {
-    return [
-      {
-        source: '/.well-known/apple-app-site-association',
-        destination: '/.well-known/apple-app-site-association.json',
-        permanent: false
-      }
-    ];
+    return [];
   }
 };
 
